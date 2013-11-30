@@ -7,8 +7,7 @@ Arduino sin cables: usando Bluetooth.
 - [BlueSMiRF HID Bluetooth Modem](https://www.sparkfun.com/products/10938)  
 
 ## Software
-- [Arduino IDE](http://arduino.cc/en/Main/Software)  
-- [Johnny-Five](https://github.com/rwaldron/johnny-five)
+- [Arduino IDE](http://arduino.cc/en/Main/Software)
 - [CoolTerm](https://learn.sparkfun.com/tutorials/terminal-basics/coolterm-windows-mac-linux)  
 
 ## Enlaces de interes
