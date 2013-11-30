@@ -2,6 +2,9 @@
 
 Arduino sin cables: usando Bluetooth.
 
+## Presentación
+- [Slideshare](http://www.slideshare.net/JorgeZaccaro/nodebots-day-bogotajs)  
+
 ## Hardware
 - [Arduino Micro](http://arduino.cc/en/Main/arduinoBoardMicro)  
 - [BlueSMiRF HID Bluetooth Modem](https://www.sparkfun.com/products/10938)  
