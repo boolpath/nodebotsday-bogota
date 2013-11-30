@@ -16,5 +16,8 @@ Arduino sin cables: usando Bluetooth.
 ## Enlaces de interes
 - [Getting started with Arduino](http://arduino.cc/en/Guide/HomePage)  
 - [Arduino Playground](http://playground.arduino.cc/)  
-- [Bluetooth basics](https://learn.sparkfun.com/tutorials/bluetooth-basics)  
+- [Sparkfun - Serial Communication](https://learn.sparkfun.com/tutorials/serial-communication)  
+- [Sparkfun - Serial Terminal Basics](https://learn.sparkfun.com/tutorials/terminal-basics/serial-terminal-overview-)  
+- [Sparkfun - Bluetooth basics](https://learn.sparkfun.com/tutorials/bluetooth-basics)  
+- [Sparkfun - Using the BlueSMiRF](https://learn.sparkfun.com/tutorials/using-the-bluesmirf/introduction)  
 
